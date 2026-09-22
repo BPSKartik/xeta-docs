@@ -1,0 +1,10 @@
+{
+  "name": "xeta-docs",
+  "private": true,
+  "description": "Educational engineering notes with runnable, dependency-free demos.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node scripts/run-all.mjs"
+  }
+}
